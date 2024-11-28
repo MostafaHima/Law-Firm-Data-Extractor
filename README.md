@@ -2,6 +2,10 @@
 
 **LawFirmScraper** is a web scraping project that gathers detailed information about law firms from the "Law.com" website. The project uses **Selenium** to automate the process of collecting data from multiple pages and stores it in an organized format.
 
+## **Data Link on Google Sheets**
+The data has been uploaded to **Google Sheets**. You can access the sheet from [here](https://docs.google.com/spreadsheets/d/16N9k-3NBUPVeVtVHINMSlX6Rnl8rOzkSheF2_BwFvXg/edit?gid=0#gid=0).
+
+
 ## **Features**
 
 - **Web scraping**: Collect data about law firms such as names, ratings, descriptions, and more.
@@ -64,10 +68,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ##
 
-
 # **LawFirmScraper**
 
 **LawFirmScraper** هو مشروع لاستخراج البيانات من الإنترنت (ويب سكرابينغ) يجمع معلومات تفصيلية عن شركات المحاماة من موقع "Law.com". يستخدم المشروع **Selenium** لأتمتة عملية جمع البيانات من عدة صفحات وتخزينها في تنسيق منظم.
+## **رابط جدول البيانات**
+تم رفع البيانات إلى **Google Sheets**. يمكنك الوصول إلى الجدول من [هنا](https://docs.google.com/spreadsheets/d/16N9k-3NBUPVeVtVHINMSlX6Rnl8rOzkSheF2_BwFvXg/edit?gid=0#gid=0).
+
 
 ## **المميزات**
 
@@ -122,6 +128,8 @@ LawFirmScraper/
 2. استخراج البيانات: بعد تحميل الصفحة بالكامل، يقوم السكربت بجمع روابط الشركات والتفاصيل الأخرى المهمة لكل شركة.
 3. معالجة البيانات: يتم تنظيف البيانات المجمعة وهيكلتها بحيث تكون جاهزة للرفع.
 4. رفع البيانات: يتم رفع البيانات المعالجة إلى قاعدة بيانات خارجية باستخدام Sheety API.
+
+
 
 
 ## License
